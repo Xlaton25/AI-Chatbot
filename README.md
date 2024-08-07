@@ -29,6 +29,9 @@ To get a local copy up and running, follow these steps:
 
     ```bash
     git clone https://github.com/your-username/Ai-Chatbot-London-Hotel-Chatbot.git
+    ```
+    
+    ```bash
     cd Ai-Chatbot-London-Hotel-Chatbot
     ```
 
