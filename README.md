@@ -52,6 +52,8 @@ To get a local copy up and running, follow these steps:
     ```
 
 5. Open your browser and navigate to `http://127.0.0.1:5000` to use the chatbot.
+   ![Screenshot 2024-08-08 at 4 20 37 AM](https://github.com/user-attachments/assets/7bf39a49-3421-4e1c-8bec-b9983e621988)
+
 
 ## Usage
 
